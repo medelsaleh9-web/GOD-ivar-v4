@@ -1,0 +1,93 @@
+{
+    "language": "en",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": ""
+    },
+    "notiGroup": false,
+    "NOTIFICATION": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "BOTNAME": "كاكو",
+    "AMDIN_NAME": "غراب",
+    "FACEBOOK_ADMIN": "",
+    "PREFIX": "",
+    "ADMINBOT": [
+        "61578427391214",
+        "61590154432150",
+        "61580304161781",
+        "61590154432150"
+    ],
+    "NDH": [
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": false,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": false,
+        "autoMarkDelivery": false,
+        "autoMarkRead": false,
+        "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
+    },
+    "version": "1.2.14",
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "daily": {
+        "cooldownTime": 540000,
+        "rewardCoin": 500
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        },
+        "sendAttachments": {
+            "status": true,
+            "random": true,
+            "url": "https://i.imgur.com/LKkw8SL.jpg"
+        }
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "randomname": {
+        "APIKEY": "mi451266190"
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "tikinfo": {
+        "apikey": "fOeckmtu"
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "spam": {
+        "spamDelay": 2
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "adminOnly": false
+}
