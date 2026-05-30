@@ -1,0 +1,57 @@
+{
+  "name": "ivar-bot",
+  "version": "4.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@miraipr0ject/assets": "^1.0.9",
+    "aes-js": "^3.1.2",
+    "ansi-to-html": "^0.7.2",
+    "axios": "^1.7.9",
+    "better-sqlite3": "^9.4.3",
+    "bluebird": "^3.7.2",
+    "cfonts": "^3.3.1",
+    "chalk": "4.1.2",
+    "chalkercli": "^1.6.4",
+    "cheerio": "^1.0.0",
+    "crypto-js": "^4.2.0",
+    "deasync": "^0.1.28",
+    "duplexify": "^4.1.2",
+    "encode32": "^1.1.0",
+    "express": "^4.21.2",
+    "figlet": "^1.8.0",
+    "fs-extra": "^11.3.0",
+    "got": "^11.8.6",
+    "gradient-string": "^2.0.2",
+    "https-proxy-agent": "^5.0.1",
+    "is-hexcolor": "^1.0.0",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.46",
+    "mqtt": "^4.3.7",
+    "npmlog": "^6.0.2",
+    "pretty-ms": "7.0.1",
+    "readable-stream": "^4.5.2",
+    "request": "^2.88.2",
+    "semver": "^7.6.3",
+    "sequelize": "^6.37.5",
+    "speakeasy": "^2.0.0",
+    "sqlite3": "^5.1.7",
+    "string-similarity": "^4.0.4",
+    "totp-generator": "^1.0.0",
+    "tough-cookie": "^4.1.4",
+    "uuid": "^9.0.0",
+    "ws": "^8.18.0",
+    "youtube-search-api": "^1.1.5",
+    "ytdl-core": "^4.11.5"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.8",
+    "utf-8-validate": "^5.0.10"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
